@@ -1,13 +1,13 @@
 <template>
-<div>
-<h1>Hello World</h1>
-<NLink to="/about">
+　<div>
+　　<h1>Hello World</h1>
+　　<NLink to="/about">
       地獄
     </NLink>
-<NLink to="/love">
+　　<NLink to="/love">
 　　　　人世
     </NLink>
-</div>
+　</div>
 </template>
 
 <script>
